@@ -2,7 +2,9 @@
 
 ### Purpose: 
 
-- To use Bootstrap5 to build a mock up landing page.
+- Use Bootstrap5 to build a mock up landing page.
+
+<img src="https://github.com/szuyuchen/Bootstrap5-landing-page-ver2/blob/main/sample-img.png?raw=true" width=500>
 
 ### Page link:
 
